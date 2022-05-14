@@ -1,0 +1,25 @@
+{
+  "name": "ts-bombing",
+  "version": "1.0.0",
+  "description": "ts学习区",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KITI-loubou/ts-bombing.git"
+  },
+  "keywords": [
+    "冲冲冲"
+  ],
+  "author": "vlou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KITI-loubou/ts-bombing/issues"
+  },
+  "homepage": "https://github.com/KITI-loubou/ts-bombing#readme",
+  "devDependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
