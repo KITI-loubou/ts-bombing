@@ -4,6 +4,6 @@
  * @Author: VLOU
  * @Date: 2022-05-19 23:05:17
  * @LastEditors: VLOU
- * @LastEditTime: 2022-05-19 23:10:22
+ * @LastEditTime: 2022-05-19 23:29:19
  */
 type If<C extends boolean, T extends any, F extends any> = C extends true ? T : F
